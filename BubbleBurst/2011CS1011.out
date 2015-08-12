@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Rules}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{What is a block ?}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{What is connectivity ?}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{What happens after elimination of block ?}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Scoring}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Game Ending }{section.2}% 7
+\BOOKMARK [1][-]{section.3}{Algortihm}{}% 8
+\BOOKMARK [1][-]{section.4}{Results}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{Average Block Size}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Time Complexity}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.3}{Score}{section.4}% 12
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 13
+\BOOKMARK [2][-]{subsection.5.1}{Time Complexity}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.2}{Algorithms}{section.5}% 15

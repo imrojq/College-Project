@@ -1,0 +1,10 @@
+About:
+The given Source code is the implementation of the research paper 
+titled "Just In Time Dynamic Voltage Scaling: Exploiting Inter-Node Slack to Save Energy in MPI Programs".
+We are using HEFT algorithm to find a schedule and aplly the Jitter system described in the paper for energy saving till we reach a stable
+configuration.
+
+Instructions:
+No specific instructions.
+Input format is same as given in the input format sent by Rishi Sir.
+Output format is also same as given.
